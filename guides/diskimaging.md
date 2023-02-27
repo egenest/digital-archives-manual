@@ -36,9 +36,6 @@ Steps for imaging physical media with Guymager:
   * If there are no viruses, proceed with the next step. If ClamTK finds viruses, stop, note the virus(es) encountered in the versement stabilization spreadsheet, set the media aside, and consult the Digital Archivist.  
 * Open Guymager (from the 'Imaging Tools' folder on the Bitcurator desktop).  
 * Right-click on the drive you wish to image and select 'Acquire image'. If the drive/device you wish to image does not appear, refresh the screen by clicking "Rescan" in the upper left hand corner of the Guymager interface.  
-
-![Bitcurator1](http://wiki.bitcurator.net/images/4/45/Acquire_image_guymager.jpg)  
-
 * Choose the 'Linux dd raw image' (file extension .dd or .xxx) file format.  
 * Make sure split size is unchecked.  
 * Enter the following metadata/settings:  
