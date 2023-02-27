@@ -68,15 +68,9 @@ Steps for imaging physical media with FTK Imager:
  * If there are no viruses, proceed with the next step. If ESET finds viruses, stop, note the virus(es) encountered in the versement stabilization spreadsheet, set the media aside, and consult the Digital Archivist.  
  * Open FTK Imager.  
 
-![FTK1](https://blogs.sans.org/computer-forensics/files/2009/06/ftkimager.png)  
-
 * From the File menu, select Create a Disk Image and choose the appropriate source and drive.  
   * **Source:** For full hard drives, the appropriate source will be 'Physical drive'. For most other media types (including CDs, DVDs, and floppy disks), the source will be 'Logical drive'.  
   * **Drive:** Select the appropriate drive from the list.  
-  
-![FTK2](https://blogs.sans.org/computer-forensics/files/2009/06/select-source.png)  
-
-![FTK3](https://blogs.sans.org/computer-forensics/files/2009/06/select-device.png)  
 
 * Select 'Add' to add the image destination. Check 'Verify images after they are created', but leave 'Create directory listings...' unchecked.  
 
