@@ -343,11 +343,7 @@ The rods screw in in three places in the lip under the lid, and are meant to hol
 <li> Download the BSRobots Upgrade Pack and extract the files to where you installed ImgBurn (i.e. C:\Program Files\ImgBurn).
 <li> Run ImgBurn, go to Tools > Settings
 
-![nimbie](http://www.acronova.com/images/howto/howto_imgburn_setup_screenshot1.png)
-
 <li> Go to <b>I/O</b>. Under <b>Enumerate Devices</b>, check <b>Auto Loaders</b> and <b>Acronova - BSRobots20.dll.</b>
-
-![nimbie](http://www.acronova.com/images/howto/howto_imgburn_setup_screenshot2.png)
 
 <li> Click <b>OK</b> to close the Settings window, and close ImgBurn to finish the installation. </ol>
 
@@ -358,16 +354,10 @@ The rods screw in in three places in the lip under the lid, and are meant to hol
 <li> Make sure that the Nimbie is connected and turned on
 <li> Start ImgBurn and wait until the autoloader finished its robotic initiation.
 <li> Select the Create image file from disc
-
-![nimbie](http://www.acronova.com/images/howto/imgburn-create-image-1.jpg)
 				
 <li> Check <b>Batch Mode</b>
-
-![nimbie](http://www.acronova.com/images/howto/imgburn-create-image-2.jpg)
 				
 <li> Click on the icon to begin disc loading.
-
-![nimbie](http://www.acronova.com/images/howto/imgburn-create-image-3.jpg)
 				
 <li> Once the first disc is loaded, ImgBurn would ask user to set the destination folder for storing ISOs. (The prompt would only appear for the first disc.)
 <li> All discs will be processed one by one until the loader is empty. </ol>
