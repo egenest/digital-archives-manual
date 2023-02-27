@@ -74,8 +74,6 @@ Steps for imaging physical media with FTK Imager:
 
 * Select 'Add' to add the image destination. Check 'Verify images after they are created', but leave 'Create directory listings...' unchecked.  
 
-![FTK4](https://blogs.sans.org/computer-forensics/files/2009/06/device-selected.png)  
-
 * Select Image type 'raw (dd)'.  
 * FTK Imager will prompt you to add metadata for your disk image. Enter the following metadata:  
   * **Case number:** Versement  
@@ -84,15 +82,10 @@ Steps for imaging physical media with FTK Imager:
   * **Examiner:** Your name  
   * **Notes:** Leave this blank  
 
-![FTK5](https://blogs.sans.org/computer-forensics/files/2009/06/select-image-type.png)
-![FTK6](https://blogs.sans.org/computer-forensics/files/2009/06/evidence-info.png)
-
 * FTK Imager will now ask you for information about where to save the resulting disk image and metadata files. Enter the following and then select 'Finish':
   * **Image destination folder:** Enter the network location of your current work folder in the Catalogers drive.
   * **Image filename:** Enter the disk's identifier with no spaces. Replace any colons (':') with underscores ('_').  
 * Double-check to make sure that the Image Destination and settings appear correct and then select 'Start' to begin the disk imaging process.  
-
-![FTK7](https://blogs.sans.org/computer-forensics/files/2009/06/ready-to-create.png)  
 
 * A progress window will not appear and keep you informed of how the disk imaging is progressing. If disk imaging fails or seems to get hung up on a large number of bad sectors, make note of this in the versement stabilization spreadsheet and set the disk aside for review by the Digital Archivist.  
 * If the image is successfully created, go to your project folder in the Depot numérique folder and do a quick visual check that all looks good. You should see at least two files: the disk image(s) themselves (potentially split into several files with the same file name but extensions of .001, .002, etc.) and a '.txt' metadata file.  
