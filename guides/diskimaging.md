@@ -347,7 +347,7 @@ The rods screw in in three places in the lip under the lid, and are meant to hol
 
 <li> Click <b>OK</b> to close the Settings window, and close ImgBurn to finish the installation. </ol>
 
-*(These instructions were taken from <a href="http://www.acronova.com/howto/article/24/review.html">here</a>)*
+*(These instructions were taken from <a href="https://disc.acronova.com/howto/article/24/review.html">here</a>)*
 
 **To create disk images from CDs and DVDs**		
 <ol>
