@@ -324,6 +324,7 @@ The Nimbie is an autoloader device that is used to read, write, and disk image m
 * USB port 3.0 (backward compatible with USB 2.0)
 * ImgBurn version 2.5.8.0 (including <a href="https://disc.acronova.com/files/BSRobots_2.2.0.333.zip"> BSRobots Upgrade pack</a>) or later
 * Nimbie USB Plus unit with proper <a href="https://disc.acronova.com/file/51/download.html">drivers installed</a>
+
 **How To Set Up The Nimbie For Disk Imaging**
 <ol>
 <li> Make sure that the Nimbie unit is plugged into a wall outlet and the USB cord is connected to the computer.
